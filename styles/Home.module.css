@@ -12,6 +12,11 @@
   align-items: center;
 }
 
+.gif {
+  position: relative;
+  align-items: right;
+}
+
 .footer {
   display: flex;
   flex: 1;
